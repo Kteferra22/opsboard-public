@@ -1,5 +1,4 @@
 # OpsBoard
-# OpsBoard
 
 OpsBoard is a lightweight employee management and operations dashboard designed to help teams organize employee data, manage internal records, and visualize operational information from a single interface.
 
